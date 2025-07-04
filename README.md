@@ -84,3 +84,18 @@ Three CSV files from [Walmart Store Sales Forecasting dataset](https://www.kaggl
 
 ---
 
+
+📌 Real-World Applications
+Retail Planning: Stock optimization
+
+Demand Forecasting: Across branches
+
+Business Strategy: Budget allocation
+
+Supply Chain: Scheduling logistics
+
+
+Author
+Jyothi Bhaskar Vardhi
+LinkedIn: www.linkedin.com/in/jyothivardhi
+GitHub: Jyothi28102004
